@@ -3,10 +3,10 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        astagi.github.io
+        All my projects
       </h1>
       <h2 class="subtitle">
-        My personal website.. it's a trap!
+        ...
       </h2>
     </div>
   </section>
